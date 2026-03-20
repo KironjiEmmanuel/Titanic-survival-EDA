@@ -19,26 +19,28 @@ The goal is to extract meaningful insights from the data and identify key variab
 -Generate insights for future predictive modeling
 
  **Dataset Summary**
+
 Rows: 891 passengers
 Columns: 16 features
+
 Each row represents an individual passenger
 
 # Key Features:
-survived – Survival outcome
-pclass – Passenger class
-sex – Gender
-age – Age
-fare – Ticket fare
-deck – Deck location
-embarked / embark_town – Boarding location
-alone – Whether passenger traveled alone
+- survived – Survival outcome
+- pclass – Passenger class
+- sex – Gender
+- age – Age
+- fare – Ticket fare
+- deck – Deck location
+- embarked / embark_town – Boarding location
+- alone – Whether passenger traveled alone
 
 # Tools & Libraries
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 # Data Cleaning
 
